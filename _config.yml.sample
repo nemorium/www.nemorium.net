@@ -4,6 +4,7 @@
 # [ ] 메뉴 구성 -- /_includes/nav.html
 # [ ] 첫 페이지 제목 -- /index.md
 # [ ] 아카이브 제목 -- /archives.md
+# [ ] 샘플 포스트 삭제 -- /_posts/2023-01-29-lorem-ipsum.md
 
 # 운영자 정보
 author: "__AUTHOR_NAME__"
