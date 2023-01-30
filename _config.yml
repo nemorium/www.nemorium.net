@@ -27,7 +27,7 @@ format:
     label: "마저 읽기 &rarr;"
   view_archives:
     url: "/archives/"
-    label: "전체 글목록 보기 &rarr;"
+    label: "전체 메모 보기 &rarr;"
 
 # 댓글 시스템 (https://giscus.app)
 giscus:

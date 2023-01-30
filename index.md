@@ -1,4 +1,4 @@
 ---
 layout: archives-posts-recent
-title: 최근 글
+title: 최근 메모
 ---

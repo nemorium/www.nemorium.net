@@ -1,4 +1,4 @@
 ---
-title: 전체 글목록
+title: 전체 메모
 layout: archives-posts-all
 ---
